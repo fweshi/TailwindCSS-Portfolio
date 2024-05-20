@@ -42,17 +42,17 @@ You need a web browser to view the website.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/portfolio-website.git
+    git clone (https://github.com/fweshi/TailwindCSS-Portfolio.git)
     ```
 2. Navigate to the project directory:
     ```sh
-    cd portfolio-website
+    cd TailwindCSS-Portfolio
     ```
 3. Open the `index.html` file in your web browser to view the website.
 
 ## Screenshots
 
-![Portfolio Screenshot](path/to/your/screenshot.png)
+![Portfolio Screenshot](fweshi/TailwindCSS-Portfolio/screenshots/Screen Shot 1.jpg)
 
 ## License
 
