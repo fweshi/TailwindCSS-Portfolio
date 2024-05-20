@@ -52,7 +52,7 @@ You need a web browser to view the website.
 
 ## Screenshots
 
-![Portfolio Screenshot](fweshi/TailwindCSS-Portfolio/screenshots/Screen Shot 1.jpg)
+![Portfolio Screenshot]
 
 ## License
 
@@ -62,5 +62,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 FweshiOs - [abelfweshi@gmail.com](mailto:abelfweshi@gmail.com)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yusuf-abbey-059ab9ba/) | [GitHub](https://github.com/fweshi) | [Twitter](https://twitter.com/yourusername)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/yusuf-abbey-059ab9ba/) | [GitHub](https://github.com/fweshi) | [Twitter]((https://x.com/Fweshi_os))
 
